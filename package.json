@@ -1,0 +1,11 @@
+{
+  "name": "scraped",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joaobispo2077/scraped.git",
+  "author": "João Bispo <joaobispo2077@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
