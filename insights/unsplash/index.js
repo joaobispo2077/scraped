@@ -19,6 +19,7 @@ const path = require('path');
   // clica para efetuar login
   await page.click('[type=submit]');
 
+  // espera pela navegação acontecer
   await page.waitForNavigation();
 
   await page.goto('https://unsplash.com/photos/-Uxe8de8YXI/');
